@@ -8,6 +8,7 @@ class Main {
 		System.out.println("Hello World" + new Main().baz);
 		System.out.println("Hello World" + new Main().baz);
 		System.out.println("Hello World" + new Main().baz);
+		System.out.println("Hello World" + args);
 	}
 
 }
